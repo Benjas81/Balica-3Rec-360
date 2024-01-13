@@ -13,7 +13,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node1" customnodeid="" author="" source="" latitude="" title="Ingreso">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node1" customnodeid="" author="" source="" latitude="" title="Ingreso">
       <mapcoords x="0.725098" mapid="FloorPlan01" y="-0.32135" y_floorplan_percent="19.5" x_floorplan_percent="44"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -47,7 +47,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="07/12/2023 11:31 p.m." nodeid="node2" customnodeid="" author="" source="" latitude="" title="Baño">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="07/12/2023 11:31 p.m." nodeid="node2" customnodeid="" author="" source="" latitude="" title="Baño">
       <mapcoords x="0.925598" mapid="FloorPlan01" y="-0.32959" y_floorplan_percent="20" x_floorplan_percent="56.1667"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -74,7 +74,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="08/12/2023 03:03 p.m." nodeid="node3" customnodeid="" author="" source="" latitude="" title="Baño">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="08/12/2023 03:03 p.m." nodeid="node3" customnodeid="" author="" source="" latitude="" title="Baño">
       <mapcoords x="1.06293" mapid="FloorPlan01" y="-0.32959" y_floorplan_percent="20" x_floorplan_percent="64.5"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -101,7 +101,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="07/12/2023 03:59 p.m." nodeid="node4" customnodeid="" author="" source="" latitude="" title="Baño Ppal">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="07/12/2023 03:59 p.m." nodeid="node4" customnodeid="" author="" source="" latitude="" title="Baño Ppal">
       <mapcoords x="1.42822" mapid="FloorPlan01" y="-0.653687" y_floorplan_percent="39.6667" x_floorplan_percent="86.6667"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -128,7 +128,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 06:56 p.m." nodeid="node5" customnodeid="" author="" source="" latitude="" title="Closet">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 06:56 p.m." nodeid="node5" customnodeid="" author="" source="" latitude="" title="Closet">
       <mapcoords x="1.41998" mapid="FloorPlan01" y="-0.85968" y_floorplan_percent="52.1667" x_floorplan_percent="86.1667"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -156,7 +156,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node6" customnodeid="" author="" source="" latitude="" title="Cocina">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node6" customnodeid="" author="" source="" latitude="" title="Cocina">
       <mapcoords x="0.77179" mapid="FloorPlan01" y="-0.722351" y_floorplan_percent="43.8333" x_floorplan_percent="46.8333"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -188,7 +188,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node7" customnodeid="" author="" source="" latitude="" title="Estudio">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node7" customnodeid="" author="" source="" latitude="" title="Estudio">
       <mapcoords x="0.579529" mapid="FloorPlan01" y="-0.307617" y_floorplan_percent="18.6667" x_floorplan_percent="35.1667"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -219,7 +219,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node8" customnodeid="" author="" source="" latitude="" title="Recamara 2">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node8" customnodeid="" author="" source="" latitude="" title="Recamara 2">
       <mapcoords x="0.406494" mapid="FloorPlan01" y="-0.598755" y_floorplan_percent="36.3333" x_floorplan_percent="24.6667"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -247,7 +247,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 06:56 p.m." nodeid="node9" customnodeid="" author="" source="" latitude="" title="Recamara 3">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 06:56 p.m." nodeid="node9" customnodeid="" author="" source="" latitude="" title="Recamara 3">
       <mapcoords x="1.26343" mapid="FloorPlan01" y="-0.32135" y_floorplan_percent="19.5" x_floorplan_percent="76.6667"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -274,7 +274,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node10" customnodeid="" author="" source="" latitude="" title="Recamara Ppal">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node10" customnodeid="" author="" source="" latitude="" title="Recamara Ppal">
       <mapcoords x="1.3678" mapid="FloorPlan01" y="-1.15906" y_floorplan_percent="70.3333" x_floorplan_percent="83"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -303,7 +303,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node11" customnodeid="" author="" source="" latitude="" title="Sala Comedor">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="13/12/2023 12:34 p.m." nodeid="node11" customnodeid="" author="" source="" latitude="" title="Sala Comedor">
       <mapcoords x="0.97229" mapid="FloorPlan01" y="-1.03821" y_floorplan_percent="63" x_floorplan_percent="59"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -334,7 +334,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="14/12/2023 06:39 p.m." nodeid="node12" customnodeid="" author="" source="" latitude="" title="Pasillo Recamara 3">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="14/12/2023 06:39 p.m." nodeid="node12" customnodeid="" author="" source="" latitude="" title="Pasillo Recamara 3">
       <mapcoords x="1.07391" mapid="FloorPlan01" y="-0.458679" y_floorplan_percent="27.8333" x_floorplan_percent="65.1667"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -363,7 +363,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="14/12/2023 03:38 p.m." nodeid="node13" customnodeid="" author="" source="" latitude="" title="Baño">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="14/12/2023 03:38 p.m." nodeid="node13" customnodeid="" author="" source="" latitude="" title="Baño">
       <mapcoords x="0.211487" mapid="FloorPlan01" y="-0.293884" y_floorplan_percent="17.8333" x_floorplan_percent="12.8333"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -390,7 +390,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="Editado" description="" longitude="" info="" copyright="" comment="" datetime="14/12/2023 08:34 p.m." nodeid="node14" customnodeid="" author="" source="" latitude="" title="Balcón">
+    <userdata tags="Editado|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="14/12/2023 08:34 p.m." nodeid="node14" customnodeid="" author="" source="" latitude="" title="Balcón">
       <mapcoords x="0.986023" mapid="FloorPlan01" y="-1.41998" y_floorplan_percent="86.1667" x_floorplan_percent="59.8333"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
@@ -417,7 +417,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="3 recamaras" description="" longitude="" info="" copyright="" comment="" datetime="14/12/2023 10:19 p.m." nodeid="node15" customnodeid="" author="" source="" latitude="" title="Lavandería">
+    <userdata tags="3 recamaras|iNTERIOR" description="" longitude="" info="" copyright="" comment="" datetime="14/12/2023 10:19 p.m." nodeid="node15" customnodeid="" author="" source="" latitude="" title="Lavandería">
       <mapcoords x="0.65094" mapid="FloorPlan01" y="-0.579529" y_floorplan_percent="35.1667" x_floorplan_percent="39.5"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
