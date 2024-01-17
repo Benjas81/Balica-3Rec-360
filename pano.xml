@@ -397,6 +397,7 @@
       <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
       <hotspot target="" skinid="ht_node" id="Sala" description="" url="{node11}" pan="-172.62" tilt="-12.67" title="Sala Comedor"/>
+      <hotspot target="" skinid="ht_node" id="Salas" description="" url="{node16}" pan="-13.22" tilt="-17.91" title="Salas Areas Verdes"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
@@ -424,6 +425,243 @@
       <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
       <hotspot target="" skinid="ht_node" id="Ingreso" description="" url="{node1}" pan="-177.12" tilt="-11.21" title="Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="09/01/2024 09:42 p.m." nodeid="node16" customnodeid="" author="" source="" latitude="" title="Salas Areas Verdes"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="Balcon" description="" url="{node14}" pan="-21.92" tilt="10.51" title="Balcón"/>
+      <hotspot target="" skinid="ht_node" id="Fire pit" description="" url="{node17}" pan="-236.35" tilt="-6.52" title="Fire Pit y Bar"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="09/01/2024 09:42 p.m." nodeid="node17" customnodeid="" author="" source="" latitude="" title="Fire Pit y Bar"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="Salas" description="" url="{node16}" pan="-140.45" tilt="-6.13" title="Salas Areas Verdes"/>
+      <hotspot target="" skinid="ht_node" id="Alberca 01" description="" url="{node18}" pan="-311.58" tilt="-5.27" title="Alberca 01"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="09/01/2024 09:42 p.m." nodeid="node18" customnodeid="" author="" source="" latitude="" title="Alberca 01"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="Fire pit" description="" url="{node17}" pan="-163.7" tilt="-6.97" title="Fire Pit y Bar"/>
+      <hotspot target="" skinid="ht_node" id="Alberca 02" description="" url="{node19}" pan="-325.12" tilt="-4.03" title="Alberca 02"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="09/01/2024 09:42 p.m." nodeid="node19" customnodeid="" author="" source="" latitude="" title="Alberca 02"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="Alberca 01" description="" url="{node18}" pan="-42.11" tilt="-4.49" title="Alberca 01"/>
+      <hotspot target="" skinid="ht_node" id="Alberca 03" description="" url="{node20}" pan="-203.42" tilt="-3.7" title="Alberca 03"/>
+      <hotspot target="" skinid="ht_node" id="Lobby" description="" url="{node24}" pan="-261.51" tilt="-0.37" title="Lobby Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="09/01/2024 09:42 p.m." nodeid="node20" customnodeid="" author="" source="" latitude="" title="Alberca 03"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="Alberca 02" description="" url="{node19}" pan="-36.91" tilt="-2.75" title="Alberca 02"/>
+      <hotspot target="" skinid="ht_node" id="Bar" description="" url="{node21}" pan="-196.71" tilt="-2.58" title="Bar"/>
+      <hotspot target="" skinid="ht_node" id="Lobby" description="" url="{node24}" pan="-337.65" tilt="-1.09" title="Lobby Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="09/01/2024 09:42 p.m." nodeid="node21" customnodeid="" author="" source="" latitude="" title="Bar"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="Alberca 03" description="" url="{node20}" pan="-77.24" tilt="-4.85" title="Alberca 03"/>
+      <hotspot target="" skinid="ht_node" id="Asadores" description="" url="{node22}" pan="-295.63" tilt="-2.23" title="Asadores"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="09/01/2024 09:42 p.m." nodeid="node22" customnodeid="" author="" source="" latitude="" title="Asadores"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="Bar" description="" url="{node21}" pan="-113.7" tilt="-5.32" title="Bar"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="09/01/2024 09:42 p.m." nodeid="node23" customnodeid="" author="" source="" latitude="" title="LobbySala"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="Alberca 02" description="" url="{node19}" pan="-336.88" tilt="-3.43" title="Alberca 02"/>
+      <hotspot target="" skinid="ht_node" id="Alberca 03" description="" url="{node20}" pan="-24.2" tilt="-3.56" title="Alberca 03"/>
+      <hotspot target="" skinid="ht_node" id="lobby" description="" url="{node24}" pan="-0.18" tilt="-8.22" title="Lobby Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="1" invertwheel="0" sensitivity="8" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" contextprojections="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltilesize="510" width="1750" height="1750" levelingpitch="0" levelbias="0.400">
+      <level width="1750" height="1750" predecode="0" preload="0"/>
+      <level width="875" height="875" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-136" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata tags="Exterior" description="" longitude="" info="" copyright="" comment="" datetime="12/01/2024 07:24 p.m." nodeid="node24" customnodeid="" author="" source="" latitude="" title="Lobby Ingreso"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" id="alberca 03" description="" url="{node20}" pan="-22.52" tilt="-16.06" title="Alberca 03"/>
+      <hotspot target="" skinid="ht_node" id="lobby" description="" url="{node23}" pan="-179.58" tilt="-9.11" title="LobbySala"/>
+      <hotspot target="" skinid="ht_node" id="alberca 02" description="" url="{node19}" pan="-340.75" tilt="-16.61" title="Alberca 02"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomin="0" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" zoomfov="20"/>
